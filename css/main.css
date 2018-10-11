@@ -2,8 +2,8 @@ body {
   background-color: #fdf6e3;
 }
 
-header footer {
-  font-family: 1.5rem;
+header, footer {
+  font-size: 1.5rem;
 }
 
 nav ul {
@@ -23,19 +23,19 @@ nav ul {
 }
 
 .wrapper > .dfn {
-  background-color: #b58900
+  background-color: #b58900;
 }
 
 p + strong {
-  color: #fff
+  color: #fff;
 }
 
 a:not(.no-highlight) {
-  background-color: #719e07
+  background-color: #719e07;
 }
 
 [rel="external"] {
-  background-color: #2694d8
+  background-color: #2694d8;
 }
 
 ol li:first-child {
@@ -47,7 +47,7 @@ ol li:last-child {
 }
 
 .types li:nth-child(odd) {
-  background-color: #657ba3
+  background-color: #657ba3;
 }
 
 .types li:nth-child(even) {
